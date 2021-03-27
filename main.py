@@ -57,6 +57,9 @@ def markAttendance(name):
 KnownFaces = findEncodings(images)
 
 # This open the Camera and Starts Live Video Capture
+'''You can change the value of 0 to 1 if you have 2 cameras. You can chage it so
+   you can have better quality Video.
+'''
 cam = cv2.VideoCapture(0)
 
 
