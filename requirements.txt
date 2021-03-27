@@ -1,0 +1,6 @@
+face_recognition
+dlib
+numpy
+Pillow
+opencv-python
+cmake
