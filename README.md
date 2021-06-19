@@ -1,6 +1,6 @@
 # Face Recognition
 
-Hello Everyone. This is Project was created with [@Plbhattad7](https://github.com/plbhattad7)
+Hello Everyone. This is Project was created with [@pranavbhattad](https://github.com/pranavbhattad)
  
 This was a fun project. We hope this Project will help you.
 
