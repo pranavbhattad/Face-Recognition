@@ -5,14 +5,14 @@
 `dlib`
 `numpy`
 `Pillow`
-`opencv-python`
+`OpenCV-python`
 `cmake`
 
 ## How to Install OpenCV (cv2)
 Open your terminal and type:
 `pip install opencv-python`
 
-Your Package will be Downloaded.
+OpenCV would be downloaded.
 
 ## How to Install Cmake
 Open your terminal and type:
@@ -27,7 +27,9 @@ To install this module, we need to have `dlib` `numpy` `Pillow`.
 If you are lucky enough, then go in your terminal and type:
 `pip install -r requirements.txt.`
 
-Your Packages will be installed. And around 90% of the time, it will not be installed. Don't Worry if not Installed. We have a way you can install it easily. We will list out the way we will be able to Install this Package.
+Your packages would install.
+Most of the time, people have a problem, including me.
+And here is the solution.
 
 ### Step 1
 You need to have a **64 Bit** Python Version. If you don't have it, you can install it from python.org/downloads.
@@ -37,20 +39,21 @@ You have to Download & Install Visual Studio for Windows Community Edition from 
 visualstudio.microsoft.com
 
 ### Step 3
-After installing it, open the Visual Studio Installer. There will be a Workload Tab opened in the app. Select the **Desktop Development with C++** Check the tick box and click Install.
-It will Install according to your Internet Speed. As you can see, there id **Modify** option over there. But you will have **Install** as I have already installed it, so I have that Modify Option.
+After installing it, open the Visual Studio Installer. In the Workload Tab. Select the **Desktop Development with C++** Check the tick box and click Install.
+
+The installation will start. I have a **Modify** option over there. Instead, you will have `Install`. As I have already installed it, I have a difference.
 
 ![Step 3](https://i.ibb.co/3zVQXsW/Step3.png)
 
-Don't get us wrong. C++ is required to recognize the face using Python. It will display in the terminal. And as you know, Python is made of C++.
+Don't get us wrong. C++ is required to recognize the face using Python. `DLIB` library requires C++. Python is made of C++.
 
 ### Step 4
 
-After you click Install Button, it will start installing according to your Internet Speed. After the Installation, Visual Studio will be installed.
+After you click Install Button, the installation starts and completes according to your Internet Speed. After the Installation, Visual Studio will be installed.
 
 ### Step 5
 
-Click the Start Button and Open Visual Studio. You don't need to Sign-In you can Sign-In if you want. You can click do it later. After that, choose your settings and preferences and click next till you get to the Splash Screen.
+Open Visual Studio. The Sign-In screen will show up. You can click do it later. After that, choose your settings and preferences and click next till you get to the Splash Screen.
 
 * After that, click `New Project` at the bottom
 * Then, `Empty C++ Project` and click `Next`
@@ -59,7 +62,7 @@ Click the Start Button and Open Visual Studio. You don't need to Sign-In you can
 
 ### Step 6
 
-On Desktop or somewhere, make a Folder `facerecog`.
+On Desktop or somewhere, make a Folder `recognition`.
 
 github.com/ageitgey/face_recognition/archive/refs/heads/master.zip
 
@@ -74,7 +77,7 @@ and hit **Enter**
 
 * Make Sure that you install `cmake` before doing this
 
-* Trust me, this will take a lot of time, but it will install everything. Just wait. You can run this and go out cycling with your friends.
+* Trust me, this will take much time, but it will install everything. Just wait. You can run this and go out cycling with your friends.
 * Till you come back, it will be installed successfully.
 <br><br>
 **Help Reference**: youtu.be/xaDJ5xnc8dc
